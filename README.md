@@ -1,5 +1,3 @@
-Student building **games and small tools**.
-
 ### Featured
 **[Klec GP](https://github.com/gittizen/vertex-gp)** — browser 2.5D racing (Vite · TypeScript · Three.js)  
 Play: [Netlify](https://tourmaline-gingersnap-268fa6.netlify.app/) · [version hub](https://gittizen.github.io/vertex-gp/)
