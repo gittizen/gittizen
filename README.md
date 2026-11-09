@@ -1,5 +1,3 @@
-﻿# Filip Khunt
-
 Student building **games and small tools**.
 
 ### Featured
